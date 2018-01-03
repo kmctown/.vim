@@ -1,0 +1,33 @@
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/vim-devicons"]
+	path = bundle/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/ctrlp.vim"]
+	path = bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/vim-prettier"]
+	path = bundle/vim-prettier
+	url = https://github.com/prettier/vim-prettier
+[submodule "/Users/kmc/.vim/bundle/jedi-vim"]
+	path = /Users/kmc/.vim/bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "/Users/kmc/.vim/bundle/bbye"]
+	path = /Users/kmc/.vim/bundle/bbye
+	url = https://github.com/moll/vim-bbye.git
+[submodule "/Users/kmc/.vim/bundle/vim-javascript"]
+	path = /Users/kmc/.vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "/Users/kmc/.vim/bundle/vim-jsx"]
+	path = /Users/kmc/.vim/bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
